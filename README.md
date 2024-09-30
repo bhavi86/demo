@@ -1,2 +1,3 @@
 # demo
-Fisrt Git project
+First Git project
+Author--Bhavi Arya
